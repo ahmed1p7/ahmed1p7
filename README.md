@@ -1,260 +1,149 @@
-<p align="center">
-    <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">KannaBOT - MD</h1>
-<p align="center">
-  <a href="https://github.com/kannachann"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
-</p>
+<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.jpg"/>
 
-<p align="center">
- <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<a href="https://github.com/kannachann/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
+<!--
 
----------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62831433937633">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@knchann">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ppiowy_/">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:kannachann@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
----------
+___
 
-## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
----------
+![Metrics](https://github.com/MhankBarBar/MhankBarBar/blob/master/github-metrics.svg)
 
-#### KELEBIHAN 📍
-| Kelebihan | Check |
-|--------|--------|
-| **Fast Respon** |[✔️](https://github.com/kannachann) |
-| **No Internet** |[✔️](https://github.com/kannachann) |
-| **Simple** |[✔️](https://github.com/kannachann) |
-| **Button template** |[✔️](https://github.com/kannachann) |
-| **Multi Device** |[✔️](https://github.com/kannachann) |
----------
-#### FITUR 📍
-| Fitur | Check |
-|--------|--------|
-| **Downloader** |[✔️](https://github.com/kannachann) |
-| **Internet** |[✔️](https://github.com/kannachann) |
-| **Game Rpg** |[✔️](https://github.com/kannachann) |
-| **Nsfw** |[✔️](https://github.com/kannachann) |
-| **Sticker** |[✔️](https://github.com/kannachann) |
-| **Game** |[✔️](https://github.com/kannachann) |
-| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
-| **Quotes** |[✔️](https://github.com/kannachann) |
-| **Anime** |[✔️](https://github.com/kannachann) |
-| **Premium** |[✔️](https://github.com/kannachann) |
-| **Tools** |[✔️](https://github.com/kannachann) |
-| **Exec** |[✔️](https://github.com/kannachann) |
-| **React** |[✔️](https://github.com/kannachann) |
----------
+___
 
-## `SETTING`
+-->
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
----------
+<!--
 
-## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
 
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+-->
 
-## TERMUX USER
-```bash
-$ pkg upgrade && pkg update
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/kannachann/KannaBOT-MD/
-$ cd KannaBOT-MD
-$ npm i 
-```
-If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```bash
-$ node .
+---
+
+```python
+
+class say_hello:
+
+    def __init__(self, text) -> None:
+
+        self.text = text
+
+    def __str__(self) -> str:
+
+        return self.text
+
+    def __repr__(self) -> str:
+
+        return self.__str__()
+
+if __name__ == "__main__":
+
+    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+
 ```
 
-#### If npm install failed, try using yarn instead of npm
-```bash
-$ pkg install yarn -y
-$ yarn install
-```
----------
+---
 
-## TERMUX WITH UBUNTU
+<!--START_SECTION:waka-->
 
-```bash
-apt update && apt full-upgrade
-apt install wget curl git proot-distro
-proot-distro install ubuntu
-echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
-ubuntu
-```
----------
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
-[ INSTALLING REQUIRED PACKAGES ]
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
-```bash
-ubuntu
-apt update && apt full-upgrade
-apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
-```
+**🐱 My GitHub Data** 
 
----------
+> 🏆 20 Contributions in the Year 2022
 
-[ INSTALLING NODEJS & KANNABOT-MD]
+ > 
 
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/kannachann/KannaBOT-MD/
-cd KannaBOT-MD
-npm install
-npm update
-```
+> 📦 7.6 MB Used in GitHub's Storage 
 
----------
+ > 
 
-## FOR WINDOWS/VPS/RDP USER 💻
+> 💼 Opted to Hire
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+ > 
 
-```bash
-git clone https://github.com/kannachann/KannaBOT-MD/
-cd KannaBOT-MD
-npm install
-npm update
+> 📜 19 Public Repositories 
+
+ > 
+
+> 🔑 15 Private Repositories  
+
+ > 
+
+**I'm an Early 🐤** 
+
+```text
+
+🌞 Morning    213 commits    ████████░░░░░░░░░░░░░░░░░   32.52% 
+
+🌆 Daytime    126 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
+
+🌃 Evening    180 commits    ██████░░░░░░░░░░░░░░░░░░░   27.48% 
+
+🌙 Night      136 commits    █████░░░░░░░░░░░░░░░░░░░░   20.76%
+
 ```
 
----------
+📅 **I'm Most Productive on Tuesday** 
 
-## Run 🏃
+```text
 
-```bash
-node .
+Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
+
+Tuesday      139 commits    █████░░░░░░░░░░░░░░░░░░░░   21.22% 
+
+Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+
+Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+
+Friday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
+
+Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+
+Sunday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
+
 ```
 
----------
+📊 **This Week I Spent My Time On** 
 
-## ```Arguments node . [--options] [<session name>]```
+```text
 
-## `--self`
-* Activate self mode (Ignores other)
+⌚︎ Time Zone: Asia/Jakarta
 
-## `--pconly`
-* If that chat not from private bot, bot will ignore
+💬 Programming Languages: 
 
-## `--gconly`
-* If that chat not from group, bot will ignore
+No Activity Tracked This Week
 
-## `--swonly`
-* If that chat not from status, bot will ignore
+🔥 Editors: 
 
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
+No Activity Tracked This Week
 
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
+💻 Operating System: 
 
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
+No Activity Tracked This Week
 
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode
-
----------
-
-## ```How To Customise Message Display```
-```js
-// Syntax
-conn.sendButton(
-      jid, // jid of the user to send the message to
-      text, // text to send
-      foooter, // footer to send
-      buffer, // buffer to send (optional), if you want to send button image, location, etc
-      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
-      quoted, // quoted message to send (optional)
-      options // options to send, example { asLocation: true }
-)
-
-// example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
-      ['Hello', 'hello'], ['Bye', 'bye']
-])
-// example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
-      [['Hello', 'hello'], ['Bye', 'bye']], 
-      null, { asLocation: true }
-)
 ```
----------
 
-### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
+**I Mostly Code in Python** 
 
----------
+```text
 
+Python                   19 repos            ███████████████░░░░░░░░░░   61.29% 
 
-## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/kannachann)
-* [`My parents`](https://github.com/kannachann)
-* [`All Friends`](https://github.com/kannachann)
-* [`All Contributors`](https://github.com/kannachann)
-* [`All Creator Bot`](https://github.com/kannachann)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomi)
-* [`BochilGaming`](https://github.com/bochilgaming)
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 
-## ```Recode By 🐾```
-[![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
 
-## ```Contributor 🔭```
-* [`The.Sad.Boy01`](https://github.com/Kangsad01)
-* [`AmirulDev20`](https://github.com/amiruldev20)
-* [`Rasel Comel`](https://github.com/raselcomel)
-* [`Rominaru`](https://github.com/rominaru)
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
+
+ Last Updated on 27/01/2022 01:12:54 UTC
+
+<!--END_SECTION:waka-->
