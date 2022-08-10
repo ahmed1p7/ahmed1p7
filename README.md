@@ -1,149 +1,65 @@
-<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.jpg"/>
+### Hello I am Aine 👋 
 
-<!--
 
-___
+------
 
-![Metrics](https://github.com/MhankBarBar/MhankBarBar/blob/master/github-metrics.svg)
+<p align='center'>
 
-___
+  <a href="https://wa.me/62895330379186"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
 
--->
+  <a href="https://facebook.com/ainneboot"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
 
-<!--
+  <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
+  <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
--->
+</p>
 
----
+</br>
 
-```python
+  
 
-class say_hello:
+<p align='center'>
 
-    def __init__(self, text) -> None:
+- 🌱 I’m currently learnin
 
-        self.text = text
+</p>
 
-    def __str__(self) -> str:
+<p align='center'>
 
-        return self.text
+   - C++
 
-    def __repr__(self) -> str:
+</p>
 
-        return self.__str__()
+<p align='center'>
 
-if __name__ == "__main__":
+  - Node JS
 
-    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+</p>
 
-```
+<p align='center'>
 
----
+🔭 I’m currently working on My Beautiful House
 
-<!--START_SECTION:waka-->
+</p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+<p align='center'>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+   ⚡ Fun fact: I really like Indomie
 
-**🐱 My GitHub Data** 
+ </p>
 
-> 🏆 20 Contributions in the Year 2022
+   
 
- > 
+ ------
 
-> 📦 7.6 MB Used in GitHub's Storage 
+<p align="center"><a href="https://github.com/Aiinne"><img src="https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight"></a></p>
 
- > 
+<p align="center">
 
-> 💼 Opted to Hire
+  <a href="https://github.com/aiinne"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 
- > 
+</p>
 
-> 📜 19 Public Repositories 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiinne&" alt="Aiinne" /></p>
 
- > 
-
-> 🔑 15 Private Repositories  
-
- > 
-
-**I'm an Early 🐤** 
-
-```text
-
-🌞 Morning    213 commits    ████████░░░░░░░░░░░░░░░░░   32.52% 
-
-🌆 Daytime    126 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
-
-🌃 Evening    180 commits    ██████░░░░░░░░░░░░░░░░░░░   27.48% 
-
-🌙 Night      136 commits    █████░░░░░░░░░░░░░░░░░░░░   20.76%
-
-```
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-
-Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-
-Tuesday      139 commits    █████░░░░░░░░░░░░░░░░░░░░   21.22% 
-
-Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-
-Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-
-Friday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
-
-Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-
-Sunday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
-
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-
-No Activity Tracked This Week
-
-🔥 Editors: 
-
-No Activity Tracked This Week
-
-💻 Operating System: 
-
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-
-Python                   19 repos            ███████████████░░░░░░░░░░   61.29% 
-
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
-
- Last Updated on 27/01/2022 01:12:54 UTC
-
-<!--END_SECTION:waka-->
