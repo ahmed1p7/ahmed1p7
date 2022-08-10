@@ -1,17 +1,27 @@
 ### Hello I am Aine 👋 
+Python                   19 repos            ███████████████░░░░░░░░░░   61.29% 
+
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
 
 
 ------
 
 <p align='center'>
 
-  <a href="https://wa.me/62895330379186"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
+  <a href="https://wa.me/+393271166550?text=hi"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
 
-  <a href="https://facebook.com/ainneboot"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
+  <a href="https://facebook.com/mayo"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"</a>
 
   <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
 
-  <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+  <a href="https://instagram.com/a_e_b_2003"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
 </p>
 
