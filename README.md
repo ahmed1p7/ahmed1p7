@@ -19,7 +19,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
   <a href="https://facebook.com/mayo"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"></a>
 
-  <a href="https://mez.ink/anemio"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"></a>
+  <a href="https://wa.me/+393271166550?text=hi"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"></a>
 
   <a href="https://instagram.com/a_e_b_2003"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
@@ -63,13 +63,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  ------
 
-<p align="center"><a href="https://github.com/Aiinne"><img src="https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight"></a></p>
+<p align="center"><a href="https://github.com/ahmed1p7"><img src="https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight"></a></p>
 
 <p align="center">
 
-  <a href="https://github.com/aiinne"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/ahmed1p7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiinne&" alt="Aiinne" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1p7&" alt="ahmed1p7" /></p>
 
