@@ -9,67 +9,30 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
+## ¡Hola! 😸 Bienvenido(a) te presento mí Perfil ✨
 
+### ***Espero te encuentres bien 🌸***
 
-------
+<p align="center"><img title="Gata Dios" src="https://78.media.tumblr.com/10275a23919ec5643d8cec044cb76df4/tumblr_p3izpzoiyu1vkfsowo1_400.gif"></p>
 
-<p align='center'>
+<div align="center">
 
-  <a href="https://wa.me/+393271166550?text=hi"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
+  <a href="https://github.com/GataNina-Li">
 
-  <a href="https://facebook.com/mayo"><img height="30" src="https://telegra.ph/file/0aa5e722cc8ef66a7b3d2.jpg"></a>
-
-  <a href="https://wa.me/+393271166550?text=hi"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"></a>
-
-  <a href="https://instagram.com/a_e_b_2003"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
-
-</p>
-
-</br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GataNina-Li&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   
 
-<p align='center'>
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 
-- 🌱 I’m currently learnin
+</div>
 
-</p>
+  
 
-<p align='center'>
+<a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-   - C++
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-</p>
+](https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA) 
 
-<p align='center'>
-
-  - Node JS
-
-</p>
-
-<p align='center'>
-
-🔭 I’m currently working on My Beautiful House
-
-</p>
-
-<p align='center'>
-
-   ⚡ Fun fact: I really like Indomie
-
- </p>
-
-   
-
- ------
-
-<p align="center"><a href="https://github.com/ahmed1p7"><img src="https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight"></a></p>
-
-<p align="center">
-
-  <a href="https://github.com/ahmed1p7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-
-</p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1p7&" alt="ahmed1p7" /></p>
 
