@@ -19,11 +19,11 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
   <a href="https://github.com/GataNina-Li">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GataNina-Li&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://i.imgur.com/yUiEvDR.jpeg"/>
 
   
 
-![Snake animation](https://github.com/ahmed1p7/ahmed1p7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ahmed1p7/YUNA-MD/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
