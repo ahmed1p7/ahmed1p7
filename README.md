@@ -21,7 +21,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
   <img height="180em" src="https://i.imgur.com/yUiEvDR.jpeg"/>
 
-  Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+ ! [Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
