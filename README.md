@@ -9,9 +9,9 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
-## Welcome in my gethup 💗 I am not a big programmer and because with time I will learn 
+## Welcome in my gethup I am not a big programmer and because with time I will learn 
 
-### ***I hope you are well 🌸***
+### ***I hope you are well***
 
 <p align="center"><img title="AHMED EL BAKUOR" src="https://i.imgur.com/yUiEvDR.jpeg"></p>
 
