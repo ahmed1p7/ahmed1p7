@@ -13,14 +13,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 ### ***I hope you are well 🌸***
 
-<p align="center"><img title="AHMED 707" src="![4f88eaccb8e98293f647370242e8c54d](https://user-images.githubusercontent.com/82735720/206930381-a5349a94-5d53-4225-9220-a81fa74f4ce3.jpg"></p>
+<p align="center"><img title="AHMED 707" src="https://at.tumblr.com/ahmed1p7/ahmed1p7/sph2eyvu1c2q"></p>
 
 <div align="center">
 
-  <a href="https://github.com/GataNina-Li">
+  <a href="https://github.com/ahmed1p7">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GataNina-Li&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  
   
 
 ![Snake animation](https://github.com/ahmed1p7/ahmed1p7/blob/output/github-contribution-grid-snake.svg)
