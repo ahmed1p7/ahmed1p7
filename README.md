@@ -19,13 +19,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
   <a href="https://github.com/ahmed1p7">
 
-  <img height="180em" src="https://i.imgur.com/yUiEvDR.jpeg"/>
+  <a href="https://instagram.com/a_e_b_2003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+ ! [Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
   
 
-<a href="https://instagram.com/a_e_b_2003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
