@@ -13,7 +13,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 ### ***I hope you are well 🌸***
 
-<p align="center"><img title="AHMED 707" src="![4f88eaccb8e98293f647370242e8c54d](https://user-images.githubusercontent.com/82735720/206930381-a5349a94-5d53-4225-9220-a81fa74f4ce3.jpg)"></p>
+<p align="center"><img title="AHMED 707" src="![4f88eaccb8e98293f647370242e8c54d](https://user-images.githubusercontent.com/82735720/206930381-a5349a94-5d53-4225-9220-a81fa74f4ce3.jpg"></p>
 
 <div align="center">
 
