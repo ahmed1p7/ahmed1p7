@@ -13,7 +13,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 ### ***I hope you are well 🌸***
 
-<p align="center"><img title="AHMED EL BAKUOR" src="https://imgur.com/a/ndtbQZf"></p>
+<p align="center"><img title="AHMED EL BAKUOR" src="https://i.imgur.com/yUiEvDR.jpeg"></p>
 
 <div align="center">
 
