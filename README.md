@@ -9,11 +9,12 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
-## ¡Hola! 😸 Bienvenido(a) te presento mí Perfil ✨
+## Welcome in my gethup 💗 I am not a big programmer and because with time I will learn 
 
-### ***Espero te encuentres bien 🌸***
+### ***I hope you are well 🌸***
 
-<p align="center"><img title="Gata Dios" src="https://78.media.tumblr.com/10275a23919ec5643d8cec044cb76df4/tumblr_p3izpzoiyu1vkfsowo1_400.gif"></p>
+<p align="center"><img title="AHMED 707" src="![4f88eaccb8e98293f647370242e8c54d](https://user-images.githubusercontent.com/82735720/206930381-a5349a94-5d53-4225-9220-a81fa74f4ce3.jpg)
+"></p>
 
 <div align="center">
 
@@ -23,16 +24,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
   
 
-![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ahmed1p7/ahmed1p7/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
   
 
-<a href="https://instagram.com/gata_dios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/a_e_b_2003" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-](https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA) 
 
 
