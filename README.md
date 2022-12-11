@@ -17,7 +17,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <div align="center">
 
-  <a href="https://github.com/GataNina-Li">
+  <a href="https://github.com/ahmed1p7">
 
   <img height="180em" src="https://i.imgur.com/yUiEvDR.jpeg"/>
 
