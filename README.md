@@ -25,21 +25,6 @@
 </p>
 
 
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/ahmed1p7"><img src="https://github-readme-stats.vercel.app/api?username=ahmed1p7&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ahmed1p7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1p7&theme=radical&layout=compact"></a></p> 
-
-### My Project With Friends 🔭
-<a href="https://github.com/ahmed1p7/brutal">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ahmed1p7&repo=brutal&theme=dark)</a>
-<a href="https://github.com/DikaArdnt/Hisoka-Morou">![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)</a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhwzein&repo=killua-zoldyck&theme=dark)</a>
-<a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>
-<a href="https://github.com/ahmed1p7/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ahmed1p7&repo=islamiah&theme=nightowl)</a>
-<a href="https://github.com/ahmed1p7/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ahmed1p7&repo=pramuka&theme=dark)</a>
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
@@ -60,9 +45,6 @@
 ![Metrics](https://metrics.lecoq.io/ahmed1p7)
 
 </details> 
-
-
-  
 
 
 
